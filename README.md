@@ -1,2 +1,2 @@
 # weather-app
-A simple weather app built with HTML, CSS, JavaScript, and OpenWeather API.
+🌤️ Aplikasi cuaca sederhana yang dibuat menggunakan HTML, CSS, dan JavaScript untuk menampilkan informasi cuaca berdasarkan kota menggunakan OpenWeather API.
